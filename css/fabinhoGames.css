@@ -67,3 +67,17 @@
     margin-top: unset;
     color: white;
 }
+
+#contato{
+    background-color: rgb(124, 6, 6);
+    width: auto;
+    height: 200px;
+    border-style: dotted;
+    font-size: -webkit-xxx-large;
+    margin-top: unset;
+    color: white;
+}
+
+#joao{
+    margin-left: 106px;
+}
